@@ -1,3 +1,3 @@
 # AI-Neural-Networks
 
-This Repository contains examples of work done in my AI:Neural Networks course. 
+This repository contains examples of work done in my AI:Neural Networks course. 
